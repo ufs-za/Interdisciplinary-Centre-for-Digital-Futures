@@ -10,3 +10,7 @@ Welcome to the ICDF where our ethos is rooted in scholarly research with societa
 -	to enhance the UFS’s academic footprint by producing quality research outputs that are academic as well as entrepreneurial in nature. 
 -	to be socially relevant and impactful through research, innovation, and entrepreneurship to lead to job creation, poverty alleviation, gender empowerment, and the creation of novel additions to existing university curricula.
 -	to forge strong linkages between a wide array of partners, such as Global South and Global North allies to cooperate on joint proposal calls and projects, to create shared degrees and to co-supervise students, to develop shared intellectual property, as well as to leverage from skills that will benefit both contexts in meaningful ways.
+
+# Projects
+|Name| Description| Scholarship|
+|----|-----|------|
