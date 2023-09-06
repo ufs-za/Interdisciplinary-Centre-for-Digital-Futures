@@ -1,5 +1,5 @@
 # INTERDISCIPLINARY CENTRE FOR DIGITAL FUTURES (ICDF)
-![Alt text](images/ICDF Infographic.jpg)
+![Alt text]([images/ICDF Infographic.jpg](https://github.com/ufs-za/Interdisciplinary-Centre-for-Digital-Futures/blob/main/images/ICDF%20Infographic.jpg))
 
 
 Welcome to the ICDF where our ethos is rooted in scholarly research with societal impact. The University of the Free State (UFS) is a research-led institution focused on impactful and engaged scholarship. Through the ICDF, the UFS seeks to create opportunities for research in the fast-evolving and multifaceted realm of the digital. Our focus is to develop and to strengthen research endevours with the potential to enhance interdisciplinary competencies within the socio-digital domain. This vision will lead to projects that are creative and conducive to dialogues of co-creation and co-development among diverse partners to unlock a wide array of contributions that should ultimately address our immediate societal challenges. We endeavour to create lasting relationships with non-academic partners as well as to forge dynamic and mutually beneficial networks between Global South and Global North colleagues. 
