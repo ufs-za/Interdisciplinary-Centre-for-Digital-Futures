@@ -20,7 +20,7 @@ We use data from social media platforms (e.g., Twitter/X, YouTube, Reddit), news
 
 ## 🔗 Primary Repository
 
-Explore the full pipeline for misinformation detection and infodemiology at:
+Explore the full pipeline for belief system mapping at:
 
 🔗 [**Computational Infodemiology Repository**](https://github.com/HerkulaasCombrink/computational_infodemiology)
 
