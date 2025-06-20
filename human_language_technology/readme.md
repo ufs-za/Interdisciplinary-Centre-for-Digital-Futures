@@ -20,7 +20,7 @@ We explicitly foreground **Ubuntu ethics**, AI fairness, and Deaf-led research p
 
 For active projects, models, and SASL data pipelines, please visit our standalone GitHub repository:
 
-🔗 [**South African Sign Language HLT GitHub Repository**](https://github.com/your-org/sasl-hlt)
+🔗 [**South African Sign Language HLT GitHub Repository**](https://github.com/ufs-za/human_language_technology_for_sasl/tree/main)
 
 This includes:
 - Glossing engines and dictionaries
