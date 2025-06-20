@@ -27,7 +27,7 @@ Interested collaborators are invited to reach out via our [Contact Page](https:/
 
 Each **focus area** is represented by its own top-level directory:
 
-```plaintext
+
 📁 human_language_technology/
 📁 digital_heritage/
 📁 social_media_listening/
