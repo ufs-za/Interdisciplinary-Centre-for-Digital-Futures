@@ -36,5 +36,5 @@ Each **focus area** is represented by its own top-level directory:
 -	to forge strong linkages between a wide array of partners, such as Global South and Global North allies to cooperate on joint proposal calls and projects, to create shared degrees and to co-supervise students, to develop shared intellectual property, as well as to leverage from skills that will benefit both contexts in meaningful ways.
 
 # Projects
-|Name| Description| Scholarship|
-|----|-----|------|
+|Name| Description| Scholarship|Link|
+|----|-----|------|----|
