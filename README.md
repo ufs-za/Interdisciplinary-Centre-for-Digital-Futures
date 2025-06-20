@@ -38,7 +38,7 @@ Each **focus area** is represented by its own top-level directory:
 
 -	to forge strong linkages between a wide array of partners, such as Global South and Global North allies to cooperate on joint proposal calls and projects, to create shared degrees and to co-supervise students, to develop shared intellectual property, as well as to leverage from skills that will benefit both contexts in meaningful ways.
 
-# Projects
+# Project Showcases
 |Name| Description| Scholarship|Link|
 |----|-----|------|----|
 | Social Listening, Health Infodemic and Pandemic Economics (SLHIPE) Misinformation Portal|Election health misinformation dashboard|Article in review|[Link here](https://lookerstudio.google.com/u/0/reporting/dc4bfaa5-5aa1-497d-ba92-b834c444f72d/page/VRXyD)|
