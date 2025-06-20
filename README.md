@@ -41,4 +41,4 @@ Each **focus area** is represented by its own top-level directory:
 | Social Listening, Health Infodemic and Pandemic Economics (SLHIPE) Misinformation Portal|Election health misinformation dashboard|Article in review|https://lookerstudio.google.com/u/0/reporting/dc4bfaa5-5aa1-497d-ba92-b834c444f72d/page/VRXyD|
 |HLT Github|South African Sign Langauge Development|Academic outputs and books|https://github.com/ufs-za/human_language_technology_for_sasl|
 |AIED Open Educational Resource|AIED at the University of the Free State OER resource|Academic article|https://ufs.libguides.com/AI|
-|HLT Project reports|A call to action for HLT research|Academic reports|https://figshare.com/articles/report/Advancing_South_African_Sign_Language_for_4IR_Technological_Development/28847498|
+|HLT Project reports|A call to action for HLT research|Academic Reports|https://figshare.com/articles/report/Advancing_South_African_Sign_Language_for_4IR_Technological_Development/28847498|
