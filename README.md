@@ -1,5 +1,8 @@
 # 🧭 Interdisciplinary Centre for Digital Futures (ICDF)
-![Alt text](https://github.com/ufs-za/Interdisciplinary-Centre-for-Digital-Futures/blob/main/images/ICDF.jpg)
+<p align="center">
+  ![Alt text](https://github.com/ufs-za/Interdisciplinary-Centre-for-Digital-Futures/blob/main/images/ICDF.jpg)
+</p>
+
 
 **Welcome to the official GitHub repository of the Interdisciplinary Centre for Digital Futures (ICDF)** at the [University of the Free State (UFS)](https://www.ufs.ac.za/icdf). This repository serves as a collaborative and interdisciplinary knowledge hub for researchers, educators, students, and partner institutions working on critical topics in the digital humanities.
 
