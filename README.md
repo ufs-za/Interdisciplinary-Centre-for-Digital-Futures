@@ -1,6 +1,6 @@
 # 🧭 Interdisciplinary Centre for Digital Futures (ICDF)
 <p align="center">
-  ![Alt text](https://github.com/ufs-za/Interdisciplinary-Centre-for-Digital-Futures/blob/main/images/ICDF.jpg)
+  <img src="https://github.com/ufs-za/Interdisciplinary-Centre-for-Digital-Futures/blob/main/images/ICDF.jpg?raw=true" alt="ICDF Logo" width="600">
 </p>
 
 
