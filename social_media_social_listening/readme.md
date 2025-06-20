@@ -94,11 +94,11 @@ All reports and tools are curated by the [Knowledge Mapping Labs](https://www.kn
 To cite our social media and infodemiology work:
 
 ```
-* **Combrink, Herkulaas; Mkungeka, Phelokazi (2024). Social Listening Reports, Health Priorities and Systemic Review of Social Listening Reports. University of the Free State. Dataset. https://doi.org/10.38140/ufs.23741898.v2
+Combrink, Herkulaas; Mkungeka, Phelokazi (2024). Social Listening Reports, Health Priorities and Systemic Review of Social Listening Reports. University of the Free State. Dataset. https://doi.org/10.38140/ufs.23741898.v2
 
-* **Combrink, Herkulaas (2024). Computational Infodemic Intelligence (InfoDI) Data for South Africa's 2024 Election. University of the Free State. Dataset. https://doi.org/10.38140/ufs.28015310.v1
+Combrink, Herkulaas (2024). Computational Infodemic Intelligence (InfoDI) Data for South Africa's 2024 Election. University of the Free State. Dataset. https://doi.org/10.38140/ufs.28015310.v1
 
-* **Combrink, Herkulaas (2023). South Africa Social Listening Reports for COVID-19 vaccine hesitancy. University of the Free State. Dataset. https://doi.org/10.38140/ufs.22128401.v1
+Combrink, Herkulaas (2023). South Africa Social Listening Reports for COVID-19 vaccine hesitancy. University of the Free State. Dataset. https://doi.org/10.38140/ufs.22128401.v1
 ```
 
 Also see `/docs/reports/` for white papers, academic publications, and public-facing reports.
